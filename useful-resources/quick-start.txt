@@ -1,0 +1,111 @@
+Welcome to <#795479376221306900>! This channel is meant to be a fast starter guide for newer players looking to get into OSRS PvM. It covers basic money making, early combat training, and short skilling guides. If ever in doubt, first check https://oldschool.runescape.wiki/. If you are still unsure, feel free to ask questions in <#708483511283089448>.
+
+.
+> __**Money Making**__
+⬥ Assumes no main account.
+⬥ If main account exists to transfer gp/purchase bonds, skip this section.
+
+The purpose of this section is to explain some methods in which you can make money to start buying gear as a low level player.
+
+__Collect Planks__
+Located outside the Barbarian Agility course, and hop worlds while banking at Barbarian Assault.
+
+__Skilling Methods__
+
+⬥ Smithing Steel Bars
+    -Do the quest *The Giant Dwarf* to get access to the Blast Furnace. 
+
+⬥ Crafting drift nets.
+
+⬥ Hunting carnivorous chincompas.
+
+.
+__Other__
+
+⬥ Completing easy clues
+They require almost no stats, yet can reward you with items worth ~100k-18m each. It is recommended to get at least 50 thieving and 40 agility should you plan to pickpocket H.A.M members for clues, however they are not required.
+
+⬥ Opening crystal chests
+
+> __**Combat Training**__
+The purpose of this section is to break down, as simply as possible, a relatively efficient means of getting the stats required to begin bossing.
+The goal is for you to end up with the following stats: 99 combat skills; 78 herblore and 77 prayer.
+Notes: 
+    ⬥ You do not have to strictly follow this should your budget not allow you to do so.
+    ⬥ Hitpoints and Defence are not listed as they can be trained alongside the other combat styles.
+    ⬥ While not mentioned, you should always upgrade to the highest tier weapon and then armour that you can afford when training.
+.
+
+
+You have 2 main options when it comes to training combat: Nightmare Zone and Slayer.
+
+__Nightmare Zone__
+Bar none, NMZ offers the most afk exp in the game. It is recommended to do some quests and some minor training prior. This quests list offers 5 bosses for your floor allowing 2k non-customized rumbles for 90+ Melees:
+    ⬥ Vampire Slayer
+    ⬥ Tree Gnome Village
+    ⬥ The Depths of Despair
+    ⬥ Mountain Daughter
+    ⬥ Lost City*
+If you plan to train slayer complete **What Lies Below** or **Ascent of Arceuus** instead.
+
+__Slayer__
+Your second option is Slayer. While this offers less combat exp/hr than NMZ in the early levels, it comes with the benefit of leveling up a very lucrative skill in the future. It also provides a lot of herbs for Herblore. A good way to train low level Slayer is do the Varrock Museum Natural History Quiz & Dwarf Cannon quest and cannon a few wilderness tasks from [Krystilia](https://oldschool.runescape.wiki/w/Krystilia).
+For more information: <https://oldschool.runescape.wiki/w/Natural_history_quiz>
+<https://oldschool.runescape.wiki/w/Dwarf_Cannon>
+    ⬥ Your number one priority for Slayer is to unlock the *Bigger and Badder* reward. This reward unlock will allow some of your Slayer creatures spawn a stronger variant with increased exp and rewards.
+    ⬥ After that you should focus on unlocking the  *Malevolent masquerade*. This helm gives a large accuracy and damage boost against monsters you have a task for. And can be imbued from NMZ points.
+
+The following subsections are methods to train if you do not wish to do either Slayer or Nightmare Zone. They are split up by style.
+.
+__Attack and Strength__
+
+`1-30:` Do *Waterfall Quest*.
+`30-40:` [**Attack only**]: Do *Fight Arena, Tree Gnome Village and The Grand Tree* quests.
+`30-38:` [**Strength**] Do *Dragon Slayer* quest.*
+This unlocks dragons as a slayer task.
+`30-65:` Kill Sand Crabs till 65 Att & Str. Obtain Dragon Defender.
+Do: *Monkey Madness I* for access to the Dragon Scimitar.
+Do: *Regicide* for access to the Dragon Halberd.
+`65-90:` Kill Dragons for bones/hides & gp.
+    -Alternatively: `85-99`: Begin Bossing.
+`90-99:` Either Begin Bossing or Dragons.
+
+__Range__
+Note: It is important to make use of the highest tier chinchompa you are able to acquire when training range.
+
+`1-40:`  Do *Shadow of the Storm, One Small Favour and The Fremennik Isles* quests. Use Lamps on Range.
+`40-60:` Kill Hill Giants/Ogres while cannoning to increase xp/hr.
+`60-99:` Monkey Madness tunnels with chinchompas.
+    -Alternatively: `60-99`: Kill Dragons.
+.
+__Magic__
+
+`1-32:` Do *Witch's Potion*, *Imp Catcher*, *The Grand Tree*, and then the *Watchtower* quests.
+Note: At 30 magic you have the magic level for a Smoke Battlestaff this acts as unlimited Air & Fire runes as well as gives a 10% bonus to magic accuracy and strength.
+`32-55:` Splash on rats in Ferox Enclave.
+    -Alternativley: Kill Crabs.
+`55-70:` High Alchemy while training other skills.
+`70-99:` Complete *Desert Treasure* to unlock Ancient Magicks and burst in Monkey Madness tunnels.
+
+> __**Skills Training**__
+
+__Prayer__
+
+`1-30:` Do: *Restless Ghost*, *Priest in Peril*, *Recruitment Drive*, and *Holy Grail* quests.
+`30-77:` Dragon bones on gilded altar with 2 lit burners OR wilderness chaos altar (this should cost ~70m, but make sure to check current prices).
+Note: Once you reach 70 prayer you can make use of Superior Dragon Bones to cut the amount of time to reach 77 but is more expensive. The Wilderness Alter has a 50% chance to save your offering thus cutting the cost of the skill.
+.
+
+__Herblore__
+
+`1-19:` Do: *Druidic Ritual*, *Jungle Potion*, *Recruitment Drive*, and *The Dig Site* quests.
+`19-31:` Serum 207's or Guam Tar
+`31-43:` Do: *My Arm's Big Adventure* and *Edgar's Ruse* quests.
+`43-63:` Prayer Potions w/Amulet of Chemistry
+`63-78:` Super Restores w/Amulet of Chemistry
+
+__Quests__
+
+For a breakdown of quests you should focus on getting done, read them over in #permanent-unlocks. However, you should especially be focused on doing Sins of the Father, as it unlocks a Darkmyre, a good place to train near a bank and an alter. 
+
+Moreover, it is worth noting that quest themselves are more rewarding the sooner you do them.
