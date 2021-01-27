@@ -1,0 +1,6 @@
+> __**Alchemical Hydra**__
+
+__Stats__
+⬥ :Combat:  XP per kill : 1100 HP + 20% XP Bonus need to math
+⬥ :Slayer:  XP per kill : 1320
+⬥ Optimal :Slayer: XP per hour : ~35k

@@ -1,0 +1,6 @@
+> __**Cerberus**__
+
+__Stats__
+⬥ :Combat:  XP per kill : 600 HP + 15% XP Bonus need to math
+⬥ :Slayer:  XP per kill : 690
+⬥ Optimal :Slayer: XP per hour : ~42k

@@ -1,0 +1,6 @@
+> __**Grotesque Guardians**__
+
+__Stats__
+⬥ :Combat:  XP per kill : 450 HP x2 need to math
+⬥ :Slayer:  XP per kill : 1350
+⬥ Optimal :Slayer: XP per hour : ~48k

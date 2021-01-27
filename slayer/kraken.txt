@@ -1,0 +1,6 @@
+> __**Kraken**__
+
+__Stats__
+⬥ :Combat:  XP per kill : 255 HP need to math
+⬥ :Slayer:  XP per kill : 255
+⬥ Optimal :Slayer: XP per hour : ~23k

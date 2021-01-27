@@ -1,0 +1,6 @@
+> __**Abyssal Sire**__
+
+__Stats__
+⬥ :Combat:  XP per kill : 400 HP + 12.50 XP Bonus need to math
+⬥ :Slayer:  XP per kill : 450
+⬥ Optimal :Slayer: XP per hour : ~15k

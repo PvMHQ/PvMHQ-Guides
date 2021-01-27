@@ -1,0 +1,6 @@
+> __**Demonic Gorilla**__
+
+__Stats__
+⬥ :Combat:  XP per kill : 380 HP + 7.5% XP /2 skills Bonus need to math
+⬥ :Slayer:  XP per kill : 408.5
+⬥ Optimal :Slayer: XP per hour : ~24.5k
